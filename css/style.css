@@ -138,6 +138,7 @@ input {
 
 .main-display__timer {
     display: flex;
+    visibility: hidden;
 }
 
 .timer__item {
